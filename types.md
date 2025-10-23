@@ -18,7 +18,6 @@
  
 ![image alt](https://github.com/duuaamichel/green-healthy-chocolate-/raw/5ebc58b008c941eaaf9ae64bc7773f911ccacfd6/c8804c2ec7546a9bda96ff258c89e8aa.jpg)
 
-3. flavor.
 
 
 4. Green Chocolate with Mint Flavor
