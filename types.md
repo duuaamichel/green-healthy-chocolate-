@@ -26,4 +26,6 @@
    - Natural sweetness, chewy texture.
    - ![image alt](https://github.com/duuaamichel/green-healthy-chocolate-/raw/5ebc58b008c941eaaf9ae64bc7773f911ccacfd6/866f406e0f34ccd9c5a5eb1f692e25d0.jpg)
 
-
+6.Matcha vegan chocolat 
+plant-based, dairy-free, antioxidant-rich, naturally sweet, eco-friendly.
+![image alt](https://github.com/duuaamichel/green-healthy-chocolate-/raw/d76ffd469bd5288376d688172bba163058ecc71c/5fbb0df5-9f45-4e03-8864-6decb79676f0.jpg)
