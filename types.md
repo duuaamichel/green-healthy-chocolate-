@@ -5,7 +5,7 @@
 
 1. Dark Green Chocolate (high cocoa content) 
    - Rich in antioxidants, strong chocolate flavor.
-![image alt](https://github.com/duuaamichel/green-healthy-chocolate-/raw/f50da30856b9d2aa5122dd65f3d7ed0b6ace6891/7ced815f52dcf3b32633aa75a4ac624e.jpg)
+<imagsrc="https://github.com/duuaamichel/green-healthy-chocolate-/raw/f50da30856b9d2aa5122dd65f3d7ed0b6ace6891/7ced815f52dcf3b32633aa75a4ac624e.jpg"width"250"/>
 
 2. Green Milk Chocolate
    - Smooth, creamy, lighter taste.
