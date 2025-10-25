@@ -1,12 +1,12 @@
-🍫💚 Healthy Green Chocolate with Pumpkin Seeds
+🍫💚 Healthy Green Chocolate with Pumpkin Seeds welcom to my project 
 
- Introduction
+|. Introduction:
 
 This project focuses on producing a healthy, naturally green chocolate using pumpkin seeds and green tea powder (Matcha).
 It contains no artificial colors or additives, keeping the product natural and 
 nutritious.
 
- ⚙️Preparation Steps
+||. ⚙️Preparation Steps
 
 1. Grind pumpkin seeds into fine powder.
 
@@ -24,7 +24,7 @@ nutritious.
 
 °°°°°°
 
-💡 Innovation Idea
+|||.💡 Innovation Idea
 
 Creating a natural green healthy chocolate that combines delicious taste with the nutritional benefits of pumpkin seeds and matcha powder.
 
@@ -41,7 +41,7 @@ The Green Chocolate with Pumpkin Seeds project presents an innovative idea in he
 
 _ _ _ 
 
-. Composition of Green Chocolate with Pumpkin Seeds
+|V. Composition of Green Chocolate with Pumpkin Seeds
 
 🧾 Main Ingredients:
 
@@ -60,7 +60,7 @@ _ _ _
 A pinch of sea salt – balances sweetness
 ---
 
-🌿 Optional Ingredients:
+V. 🌿 Optional Ingredients:
 
 10g grated coconut – adds crunch and aroma
 
@@ -89,7 +89,7 @@ A creamy, naturally green chocolate bar full of nutrients, flavor, and wellness 
 
 _ _ _ _ _ 
 
-🧠 Nutritional Values (per 100g):
+V|. 🧠 Nutritional Values (per 100g):
 
 Nutrient |	Value
 
@@ -110,7 +110,7 @@ Cocoa butter gives healthy monounsaturated fats similar to olive oil.
 
 Honey adds enzymes and natural antibacterial properties.
 
- Key Benefits:
+V||.  Key Benefits:
 
 Improves focus and energy levels.
 
@@ -120,11 +120,12 @@ Enhances mood naturally (thanks to cocoa and magnesium).
 
 Promotes heart and brain health. 
 
-°summary:
+*summary:
 This Green Chocolate with Pumpkin Seeds is rich in antioxidants, magnesium, and zinc, helping boost energy, improve mood, and support heart health — a perfect combination of flavor and wellness
 
-_ _ _ _ _ 
-Types of Healthy Green Chocolate:💭
+_ _ _ _ _
+
+V|||. ypes of Healthy Green Chocolate:💭
 
 1.Dark Green Chocolate (high cocoa content)🖤🟢
 Rich in antioxidants, strong chocolate flavor2.
@@ -156,7 +157,7 @@ plant-based, dairy-free, antioxidant-rich, naturally sweet, eco-friendly.
 
 _ _ _ _ _ _ _ 
 
-Conclusion;🛠️🌹
+|X. onclusion;🛠️🌹
 
 The Green Chocolate with Pumpkin Seeds project is a creative and healthy food innovation.It successfully combines flavor, health, and sustainability in one unique product.
 Main Results:
@@ -168,7 +169,7 @@ Green color from matcha or pumpkin seeds.
 Pleasant texture and balanced taste.
 
 
-Recommendations:🔻
+X. Recommendations:🔻
 
 Develop new flavors (mint, pistachio).
 
