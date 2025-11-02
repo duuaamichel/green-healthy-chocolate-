@@ -57,7 +57,7 @@ _ _ _
 
 1 teaspoon natural vanilla extract – aroma enhancer
 
-A pinch of sea salt – balances sweetness
+a pinch of sea salt balances sweetness
 ---
 
 V. 🌿 Optional Ingredients:
